@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "gender": "male",
+      "course": "html",
+      "degree": [
+        "BSC"
+      ],
+      "id": 0
+    }
+  ]
+}
