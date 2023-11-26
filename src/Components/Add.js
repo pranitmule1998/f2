@@ -26,9 +26,9 @@ const Add = () =>{
            
 
             <select id="course" {...register("course")} >
-                <option value={"html"} >HTMLs</option>
-                <option value={"css"} >csss</option>
-                <option value={"js"} >jss</option>
+                <option value={"htmls"} >HTMLs</option>
+                <option value={"csss"} >csss</option>
+                <option value={"jss"} >jss</option>
             </select>  <br/>
 
             <label htmlFor="degree"></label>
